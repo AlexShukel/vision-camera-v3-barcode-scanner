@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/DeveloperMCD/vision-camera-v3-barcode-scanner.git",
-  "author": "Matthew McDevitt <developermcd@gmail.com> (https://github.com/DeveloperMCD)",
+  "repository": "https://github.com/fracht/vision-camera-barcode-scanner-rnvcv3.git",
+  "author": "Aleksandras Sukelovic <alex.shukel@gmail.com> (https://github.com/AlexShukel)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DeveloperMCD/vision-camera-v3-barcode-scanner/issues"
+    "url": "https://github.com/fracht/vision-camera-barcode-scanner-rnvcv3/issues"
   },
-  "homepage": "https://github.com/DeveloperMCD/vision-camera-v3-barcode-scanner#readme",
+  "homepage": "https://github.com/fracht/vision-camera-barcode-scanner-rnvcv3#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^17.6.7",
     "@react-native-community/eslint-config": "^3.2.0",
